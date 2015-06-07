@@ -1,5 +1,0 @@
-firstName,lastName,numMonthsSinceContact,emailAddress
-Scott,D'Alessandro,0,scott@fullstackacademy.com
-Nick,Ellsworth,0,ellsworth.nick@gmail.com
-Bob,Placeholder,1,bob@placeholder.com
-Lorem,Ipsum,2,dolor@sita.met
